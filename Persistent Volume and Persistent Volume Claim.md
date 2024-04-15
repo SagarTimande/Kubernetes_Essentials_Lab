@@ -186,6 +186,9 @@ spec:
 ```
 Verify deployment
 ```
+kubectl apply -f ng-deploy.yaml
+```
+```
 kubectl get deploy
 ```
 ```
